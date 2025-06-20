@@ -1,0 +1,8 @@
+{
+  "inputDir": "./src/24/solid",
+  "outputDir": "./font",
+  "fontTypes": ["woff2"],
+  "assetTypes": ["css"],
+  "name": "heroicons",
+  "prefix": "icon"
+}
